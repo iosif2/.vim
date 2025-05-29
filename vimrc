@@ -1,4 +1,5 @@
 call pathogen#infect()
+colorscheme dracula
 call pathogen#helptags()
 set smartindent
 set tabstop=4
