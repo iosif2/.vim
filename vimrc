@@ -1,8 +1,5 @@
-if v:version < 802
-    packadd! dracula
-endif
-syntax enable
-colorscheme dracula
+call pathogen#infect()
+call pathogen#helptags()
 set smartindent
 set tabstop=4
 set expandtab
