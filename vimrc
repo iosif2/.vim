@@ -8,3 +8,4 @@ set smartindent
 set tabstop=4
 set expandtab
 set shiftwidth=4
+nnoremap <F2> :set paste!<CR>:set paste?<CR>
